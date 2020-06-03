@@ -1,2 +1,2 @@
-# Heroes
+# Product
 angular application
